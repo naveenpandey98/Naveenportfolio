@@ -1,2 +1,2 @@
-# Naveenportfolio.github.io
+# Naveenportfolio
 PortFolio
